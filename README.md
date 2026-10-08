@@ -1,4 +1,3 @@
-# GDZ.py
 # 🤖 Autonomous AI Homework Assistant v2.5 / Автономный ИИ-Помощник ГДЗ v2.5
 
 **[EN]** Offline school AI-solver for Math and English (*Spotlight Grades 1-7*). No internet required!  
@@ -34,3 +33,6 @@ Created by **LUKWA STUDIOS™**
 
 * **[EN]** **Windows SmartScreen/Antivirus Warning:** Because this binary is built as a standalone indie application without an expensive Microsoft digital signature, your antivirus might say "Unknown Publisher". **The file is 100% clean, verified, and safe.**
 * **[RU]** **Предупреждение Windows:** При первом старте антивирус или SmartScreen может написать «Неизвестный издатель». Это стандартная реакция на инди-программы без дорогой платной лицензии Microsoft. **Файл на 100% чист, проверен и безопасен.**
+
+---
+Developed by **LUKWA STUDIOS** © 2026. All rights reserved.
